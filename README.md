@@ -1,5 +1,5 @@
-# Ta-Te-Ti
-Debemos implementar un juego de Ta-Te-Ti (o tic-tac-toe).
+# Tres en raya
+Debemos implementar un juego de Tres en raya.
 
 ### Requisitos
 - Clickear las celdas vacías deberían agregar la ficha del turno activo.
@@ -11,11 +11,3 @@ Debemos implementar un juego de Ta-Te-Ti (o tic-tac-toe).
 - Poder jugar contra una máquina.
 - Selector de dificultad de la máquina.
 - Contador de partidas ganadas por ficha.
-
-Podés clonarlo o usarlo directamentes desde codesandbox:
-
-[CODESANDBOX](https://codesandbox.io/s/github/goncy/interview-challenges/tree/main/tic-tac-toe)
-
----
-
-Si te gusta mi contenido, seguime en [Twitter](https://twitter.gonzalopozzo.com), en [Twitch](https://twitch.gonzalopozzo.com), en [Youtube](https://youtube.gonzalopozzo.com), doname un [Cafecito](https://cafecito.gonzalopozzo.com) o volvete [sponsor en github](https://github.com/sponsors/goncy) ✨
