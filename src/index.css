@@ -17,7 +17,6 @@
 }
 
 body {
-  margin: 0;
   display: grid;
   place-content: center;
   min-height: 100vh;
@@ -110,3 +109,36 @@ button.o {
     background-color: #f9f9f9;
   }
 }
+
+button.player {
+  cursor: default;
+  pointer-events: none;
+  margin: 0px 8px;
+  padding: 8px 28px;
+  background-color: #00000000;
+  border: 1px solid #3d3b3b;
+}
+
+button.selected {
+  border-color: #666dea;
+  background-color: #6684ff;
+  color: white;
+}
+
+section.turn{
+  display: inline;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    margin: 0;
+  }
+
+  button.player {
+    cursor: default;
+    pointer-events: none;
+    margin: 12px;
+    padding: 0.6em 1.2em;
+  }
+}
+
