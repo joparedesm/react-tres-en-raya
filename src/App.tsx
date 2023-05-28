@@ -50,8 +50,8 @@ function App() {
 
   return (<>
 
-    <h1>Tic Tac Toe</h1>
-    <h2>Next player: {player}</h2>
+    <h1>Tres en raya</h1>
+    <h2>Jugador: {player}</h2>
 
     <main>
 
